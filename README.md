@@ -23,3 +23,9 @@ Saya Anak Ke 2. dah. yaudah sih gatau mau tambahin apa.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+### 📺 Video YouTube LQLoLGT Paling Popular 📺
+
+- <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot WhatsApp Menggunakan Node JS](https://www.youtube.com/watch?v=NP4eOr9WJxE&t=85s)
+- <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING! Part 1](https://www.youtube.com/watch?v=DX_KpSQUkJ0&t=23s)
+- <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING Part 3](https://www.youtube.com/watch?v=0lgr5Mmxo9A&t=43s)
