@@ -4,8 +4,8 @@ Saya Anak Ke 2. dah. yaudah sih gatau mau tambahin apa.
 
 ### ✨ Sosial Media ✨
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/LQLoLGT]
-- 🎥 YouTube Channel: [LQLoLGT](https://www.youtube.com/LQLoLGT)
+
+- [<img align="left" alt="Cenel Yutub | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />] YouTube Channel: [LQLoLGT](https://www.youtube.com/LQLoLGT)
 - 📷 Instagram: [@devan.aditiya.p](https://instagram.com/devan.aditiya.p)
 - 🏕 Discord: [LQLoL Base](https://discord.gg/zfYXZHU)
 - 🕊 Twitter: [@LQLoL1](https://twitter.com/LQLoL1)
