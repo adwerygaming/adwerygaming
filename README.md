@@ -12,7 +12,7 @@ Saya Anak Ke 2. dah. yaudah sih gatau mau tambahin apa.
 - 📧 Email: adwerygaming@gmail.com
 
 
-### 🏆 Bahasa Program Yang Saya Paham 🏆
+### 🏆 Bahasa Program dan Alat Yang Saya Paham 🏆
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,3 +33,6 @@ Saya Anak Ke 2. dah. yaudah sih gatau mau tambahin apa.
 - <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot WhatsApp Menggunakan Node JS](https://www.youtube.com/watch?v=NP4eOr9WJxE&t=85s)
 - <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING! Part 1](https://www.youtube.com/watch?v=DX_KpSQUkJ0&t=23s)
 - <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING Part 3](https://www.youtube.com/watch?v=0lgr5Mmxo9A&t=43s)
+
+<br />
+<br />
