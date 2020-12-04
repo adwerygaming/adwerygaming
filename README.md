@@ -1,6 +1,6 @@
 ### 😎 Halo Gan! Selamat Datang Di Profile Saya! 
 Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT). Saya Berumur 13 Tahun, tinggal di Jogjakarta. Lebih Tepatnya Di Gunungkidul!
-Saya Anak Ke 2. dah. yaudah sih gatau mau tambahin apa.
+Saya Anak Ke 2. Saya Sekarang Sekolah Di [SMP 1 PONJONG](http://smp1ponjong.pendidikan.gunungkidulkab.go.id/). Saya Kelas 8 SMP. Saya Suka Bedah Program, saya sudah bisa dibilang Mahir dalam coding di NodeJS. biasanya saya coding bot discord, tapi akhir2 ini seya suka coding di whatsapp bot. soalnya whatsapp semua orang punya dan sering di pakai. terimakasih telah membaca README.md punya saya.
 
 ### ✨ Sosial Media ✨
 
