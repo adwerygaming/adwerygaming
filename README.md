@@ -50,7 +50,7 @@ Saya Anak Ke 2. Saya Sekarang Sekolah Di [SMP 1 PONJONG](http://smp1ponjong.pend
 
 - <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot WhatsApp Menggunakan Node JS](https://www.youtube.com/watch?v=NP4eOr9WJxE&t=85s)
 - <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING! Part 1](https://www.youtube.com/watch?v=DX_KpSQUkJ0&t=23s)
-- <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING Part 3](https://www.youtube.com/watch?v=0lgr5Mmxo9A&t=43s)
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING Part 3](https://www.youtube.com/watch?v=0lgr5Mmxo9A&t=43s)
 
 <br />
 <br />
