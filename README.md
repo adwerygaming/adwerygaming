@@ -1,17 +1,12 @@
-### Halo Gan! Selamat Datang Di Profile Saya!
-Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT)
+### 😎 Halo Gan! Selamat Datang Di Profile Saya! 
+Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT). Saya Berumur 13 Tahun, tinggal di Jogjakarta. Lebih Tepatnya Di Gunungkidul!
+Saya Anak Ke 2. dah. yaudah sih gatau mau tambahin apa.
 
-<!--
-**adwerygaming/adwerygaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Sosial Media ✨
 
-Here are some ideas to get you started:
+- 🎥 YouTube Channel: [LQLoLGT](https://www.youtube.com/LQLoLGT)
+- 📷 Instagram: [@devan.aditiya.p](https://instagram.com/devan.aditiya.p)
+- 🏕 Discord: [LQLoL Base](https://discord.gg/zfYXZHU)
+- 🕊 Twitter: [@LQLoL1](https://twitter.com/LQLoL1)
+- 📧 Email: adwerygaming@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
