@@ -1,5 +1,5 @@
 ### Halo Gan! Selamat Datang Di Profile Saya!
-Saya Devan Aditiya, biasa dikenal [LQLoLGT][https://www.youtube.com/LQLoLGT]
+Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT)
 
 <!--
 **adwerygaming/adwerygaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
