@@ -28,6 +28,25 @@ Saya Anak Ke 2. Saya Sekarang Sekolah Di [SMP 1 PONJONG](http://smp1ponjong.pend
 <br />
 <br />
 
+### 👥 undefined Family! 👥
+
+# Rxcha - Awesome AMV Maker! 
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Rxcha](https://www.youtube.com/channel/UC6SkgQuH3NDPBR0p0RqKBAg)
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Rxcha Music](http://www.youtube.com/channel/UCWgSpeFu_unASkw_havnuYwx )
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> [Rxcha09](https://github.com/Rxcha09)
+
+<br />
+# LeafSky - Awesome Music Producer!
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [LeafSky](https://www.youtube.com/channel/UC8A43IDIpxQiY9jpDitjShQ)
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [leafsnow_45333](https://www.instagram.com/leafsnow_45333/)
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> [LeafSky](https://open.spotify.com/artist/2IN2lnzZ4PbnUY6KDEOrmM)
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/soundcloud.svg" /> [LeafSky](https://soundcloud.com/leafsky-music)
+- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> [IAmLeafSky](https://twitter.com/iamleafsky)
+ 
+
+<br />
+
+
 ### 📺 Video YouTube LQLoLGT Paling Popular 📺
 
 - <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot WhatsApp Menggunakan Node JS](https://www.youtube.com/watch?v=NP4eOr9WJxE&t=85s)
