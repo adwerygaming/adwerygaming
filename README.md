@@ -35,7 +35,6 @@ Saya Anak Ke 2. Saya Sekarang Sekolah Di [SMP 1 PONJONG](http://smp1ponjong.pend
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Rxcha Music](http://www.youtube.com/channel/UCWgSpeFu_unASkw_havnuYwx )
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> [Rxcha09](https://github.com/Rxcha09)
 
-<br />
 # LeafSky - Awesome Music Producer!
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [LeafSky](https://www.youtube.com/channel/UC8A43IDIpxQiY9jpDitjShQ)
 - <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [leafsnow_45333](https://www.instagram.com/leafsnow_45333/)
