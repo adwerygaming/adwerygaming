@@ -1,9 +1,6 @@
-# 😎 Halo Gan! Selamat Datang Di Profile Saya! 
-Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT). Saya Berumur 13 Tahun, tinggal di Jogjakarta. Lebih Tepatnya Di Gunungkidul!
-Saya Anak Ke 2. Saya Sekarang Sekolah Di [SMP 1 PONJONG](http://smp1ponjong.pendidikan.gunungkidulkab.go.id/). Saya Kelas 8 SMP. Saya Suka Bedah Program, saya sudah bisa dibilang Mahir dalam coding di NodeJS. biasanya saya coding bot discord, tapi akhir2 ini seya suka coding di whatsapp bot. soalnya whatsapp semua orang punya dan sering di pakai. terimakasih telah membaca README.md punya saya.
-
-Jangan Gunakan Dark Mode Saat Melihat Profile ini.
-Gunakan Light Mode
+# 😎 Heyo! Welcome To My Profile! 
+Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT). Saya Berumur 14 Tahun, tinggal di Jogjakarta. Lebih Tepatnya Di Gunungkidul!
+Saya Kelas 9 SMP. Saya Suka Koding Javascript NodeJs. biasanya saya coding bot discord, tapi akhir2 ini seya suka coding Arduino. soalnya gak pain gak seru. Terimakasih telah membaca README.md saya.
 
 ## ✨ Sosial Media ✨
 
@@ -15,7 +12,7 @@ Gunakan Light Mode
 - 📧 Email: adwerygaming@gmail.com
 
 
-## 🏆 Bahasa Program dan Alat Yang Saya Paham 🏆
+## 🏆 Sample Text 🏆
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -49,13 +46,6 @@ Gunakan Light Mode
  
 
 <br />
-
-
-# 📺 Video YouTube LQLoLGT Paling Popular 📺
-
-- <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot WhatsApp Menggunakan Node JS](https://www.youtube.com/watch?v=NP4eOr9WJxE&t=85s)
-- <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING! Part 1](https://www.youtube.com/watch?v=DX_KpSQUkJ0&t=23s)
-- <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> [Cara Membuat Bot Di Discord TANPA CODING Part 3](https://www.youtube.com/watch?v=0lgr5Mmxo9A&t=43s)
 
 <br />
 <br />
