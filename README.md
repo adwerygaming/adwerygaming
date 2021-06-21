@@ -1,5 +1,5 @@
-# 😎 Heyo! Github Profile Check! 
-Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT). Saya Berumur 14 Tahun, tinggal di Jogjakarta. Lebih Tepatnya Di Gunungkidul!
+# 😎 Heyo! Welcome To My Github Profile! 
+Helo. Saya Devan Aditiya, biasa dikenal [LQLoLGT](https://www.youtube.com/LQLoLGT). Saya Berumur 14 Tahun, tinggal di Jogjakarta. Lebih Tepatnya Di Gunungkidul!
 Saya Kelas 9 SMP. Saya Suka Koding Javascript NodeJs. biasanya saya coding bot discord, tapi akhir2 ini seya suka coding Arduino. soalnya gak pain gak seru. Terimakasih telah membaca README.md saya.
 
 ## ✨ Sosial Media ✨
