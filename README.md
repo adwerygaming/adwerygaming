@@ -7,26 +7,29 @@
 <hr>
 
 <h3>📚 Techstack</h3>
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=whit" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=whit" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+    <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</div>
 <br>
 
 <!-- 
     Actually, I do TypeScript mostly.
 -->
 
-<h3>🤖 All AI?</h3>
+<h3>🤖 What, AI for everything?</h3>
+
 <ul>
     <li>
-        Yes, i'm 100% Vibe Coder. 👍
+        - [x] I'm 100% Vibe Coder.
     </li>
     <li>
-        I always rely on AI. 🤖❤️
+        - [x] Always rely on AI.
     </li>
     <li>
-        I can't code by myself. ❌✍️
+        - [x] Can't Code without AI.
     </li>
 </ul>
 
