@@ -1,7 +1,8 @@
 {
-  members: [
+  "type": "family",
+  "members": [
     "Rxcha",
     "LeafSky",
-    "Invalid-user"
+    "invalid-user"
   ]
 }
