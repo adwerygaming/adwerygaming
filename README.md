@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi 👋, I'm Devan Aditiya</h1>
     <h3>Just a Student That Loves Technology.</h3>
-    <a href="https://devanaditiya.my.id">Website</a> • <a href="https://miayam.my.id">AliasNya: Shortener Link Project</a>
+    🌐 <a href="https://devanaditiya.my.id">Website</a> • 🌟 <a href="https://miayam.my.id">AliasNya: Shortener Link Project</a>
 </div>
 
 <hr>
@@ -16,7 +16,7 @@
 <br>
 
 <!-- 
-    Actually, I do TypeScript mostly.
+    QWN0dWFsbHksIEkgZG8gVHlwZVNjcmlwdCBtb3N0bHku
 -->
 
 <h3>🤖 What, AI for everything?</h3>
@@ -34,15 +34,11 @@
 </ul>
 
 <!-- 
-    Cap, i didn't 100% rely on AI. Like for real.
-    If i 100% rely on AI, then why i exist on the first place? AI is going to do all my work.
-
-    instead, i use AI as a counselinger (helper). I asked: "Is this okay?", "If i do this, i will get that right?", "Design me layout for this system".
-    and doing the rest by myself.
+    Q2FwLCBpIGRpZG4ndCAxMDAlIHJlbHkgb24gQUkuIExpa2UgZm9yIHJlYWwuCklmIGkgMTAwJSByZWx5IG9uIEFJLCB0aGVuIHdoeSBpIGV4aXN0IG9uIHRoZSBmaXJzdCBwbGFjZT8gQUkgaXMgZ29pbmcgdG8gZG8gYWxsIG15IHdvcmsuCgppbnN0ZWFkLCBpIHVzZSBBSSBhcyBhIGNvdW5zZWxpbmdlciAoaGVscGVyKS4gSSBhc2tlZDogIklzIHRoaXMgb2theT8iLCAiSWYgaSBkbyB0aGlzLCBpIHdpbGwgZ2V0IHRoYXQgcmlnaHQ/IiwgIkRlc2lnbiBtZSBsYXlvdXQgZm9yIHRoaXMgc3lzdGVtIi4KYW5kIGRvaW5nIHRoZSByZXN0IGJ5IG15c2VsZi4=
 -->
 
 <h3>✉️ Contact</h3>
-<p>You can reach me via </p>
+<p>You can reach me via: </p>
 
 <ul>
     <!-- ooooo, nice domain... -->
