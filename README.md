@@ -19,20 +19,6 @@
     QWN0dWFsbHksIEkgZG8gVHlwZVNjcmlwdCBtb3N0bHku
 -->
 
-<h3>🤖 What, AI for everything?</h3>
-
-<ul>
-    <li>
-        - [x] I'm 100% Vibe Coder.
-    </li>
-    <li>
-        - [x] Always rely on AI.
-    </li>
-    <li>
-        - [x] Can't Code without AI.
-    </li>
-</ul>
-
 <!-- 
     Q2FwLCBpIGRpZG4ndCAxMDAlIHJlbHkgb24gQUkuIExpa2UgZm9yIHJlYWwuCklmIGkgMTAwJSByZWx5IG9uIEFJLCB0aGVuIHdoeSBpIGV4aXN0IG9uIHRoZSBmaXJzdCBwbGFjZT8gQUkgaXMgZ29pbmcgdG8gZG8gYWxsIG15IHdvcmsuCgppbnN0ZWFkLCBpIHVzZSBBSSBhcyBhIGNvdW5zZWxpbmdlciAoaGVscGVyKS4gSSBhc2tlZDogIklzIHRoaXMgb2theT8iLCAiSWYgaSBkbyB0aGlzLCBpIHdpbGwgZ2V0IHRoYXQgcmlnaHQ/IiwgIkRlc2lnbiBtZSBsYXlvdXQgZm9yIHRoaXMgc3lzdGVtIi4KYW5kIGRvaW5nIHRoZSByZXN0IGJ5IG15c2VsZi4=
 -->
